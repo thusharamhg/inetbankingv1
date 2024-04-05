@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+    <configuration>
+    
+        <!-- Theme (Standard/Dark) -->
+        <theme>dark</theme>
+        
+        <!-- Document Encoding -->
+        <encoding>UTF-8</encoding>
+        
+        <!-- Protocol for script and Stylesheets -->
+        <protocol>https</protocol>
+        
+        <!-- Document Title -->
+        <documentTitle>InetBanking Test Project</documentTitle>
+        
+        <!-- Report Name -->
+        <reportName>Functional Test Automation Report</reportName>
+        
+        <!-- Location of charts in the test view top/bottom -->
+        <testViewChartLocation>bottom</testViewChartLocation>
+        
+           
+        <!-- Chart Location (top/right/bottom/left) -->
+       <!-- <chartLocation>top</chartLocation> -->
+        
+        <!-- Report Headline -->
+       <!-- <headline>InetBanking Test Automation Report</headline> -->
+        
+        
+        <!-- Custom JavaScript (optional) -->
+        <scripts> 
+          <![CDATA[
+          $(document).ready(function() {
+          });
+          ]]>
+        </scripts>
+        
+        <!-- Custom Styles (optional) -->
+        <styles> 
+          <![CDATA[
+          
+          ]]>
+        </styles>
+        
+        
+    </configuration>
+</extentreports>
