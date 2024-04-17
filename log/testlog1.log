@@ -243,3 +243,108 @@
 2024-04-04 19:19:25,384 [main] INFO ebanking - 9
 2024-04-04 19:19:30,059 [main] INFO ebanking - Assert Validation Started...
 2024-04-04 19:19:30,079 [main] INFO ebanking - Test Case 003 Passed
+2024-04-05 22:25:52,728 [main] INFO ebanking - Providing customer details...
+2024-04-05 22:25:52,784 [main] INFO ebanking - 1
+2024-04-05 22:25:52,828 [main] INFO ebanking - 2
+2024-04-05 22:25:52,934 [main] INFO ebanking - 3
+2024-04-05 22:25:56,006 [main] INFO ebanking - 4
+2024-04-05 22:25:56,062 [main] INFO ebanking - 5
+2024-04-05 22:25:56,111 [main] INFO ebanking - 6
+2024-04-05 22:25:56,163 [main] INFO ebanking - 7
+2024-04-05 22:25:56,214 [main] INFO ebanking - 8
+2024-04-05 22:25:56,278 [main] INFO ebanking - 9
+2024-04-05 22:26:00,405 [main] INFO ebanking - Assert Validation Started...
+2024-04-05 22:26:00,420 [main] INFO ebanking - Test Case 003 Passed
+2024-04-05 22:26:45,524 [main] INFO ebanking - Providing customer details...
+2024-04-05 22:26:45,604 [main] INFO ebanking - 1
+2024-04-05 22:26:45,656 [main] INFO ebanking - 2
+2024-04-05 22:26:45,761 [main] INFO ebanking - 3
+2024-04-05 22:26:48,851 [main] INFO ebanking - 4
+2024-04-05 22:26:48,900 [main] INFO ebanking - 5
+2024-04-05 22:26:48,947 [main] INFO ebanking - 6
+2024-04-05 22:26:48,994 [main] INFO ebanking - 7
+2024-04-05 22:26:49,055 [main] INFO ebanking - 8
+2024-04-05 22:26:49,108 [main] INFO ebanking - 9
+2024-04-05 22:26:53,866 [main] INFO ebanking - Assert Validation Started...
+2024-04-05 22:26:53,879 [main] INFO ebanking - Test Case 003 Passed
+2024-04-08 16:44:27,281 [main] INFO ebanking - Providing customer details...
+2024-04-08 16:44:27,337 [main] INFO ebanking - 1
+2024-04-08 16:44:27,386 [main] INFO ebanking - 2
+2024-04-08 16:44:27,506 [main] INFO ebanking - 3
+2024-04-08 16:44:30,582 [main] INFO ebanking - 4
+2024-04-08 16:44:30,634 [main] INFO ebanking - 5
+2024-04-08 16:44:30,681 [main] INFO ebanking - 6
+2024-04-08 16:44:30,731 [main] INFO ebanking - 7
+2024-04-08 16:44:30,783 [main] INFO ebanking - 8
+2024-04-08 16:44:30,843 [main] INFO ebanking - 9
+2024-04-08 16:44:35,145 [main] INFO ebanking - Assert Validation Started...
+2024-04-08 16:44:35,161 [main] INFO ebanking - Test Case 003 Passed
+2024-04-09 19:35:39,012 [main] INFO ebanking - Providing customer details...
+2024-04-09 19:35:39,069 [main] INFO ebanking - 1
+2024-04-09 19:35:39,118 [main] INFO ebanking - 2
+2024-04-09 19:35:39,226 [main] INFO ebanking - 3
+2024-04-09 19:35:42,306 [main] INFO ebanking - 4
+2024-04-09 19:35:42,359 [main] INFO ebanking - 5
+2024-04-09 19:35:42,404 [main] INFO ebanking - 6
+2024-04-09 19:35:42,451 [main] INFO ebanking - 7
+2024-04-09 19:35:42,501 [main] INFO ebanking - 8
+2024-04-09 19:35:42,557 [main] INFO ebanking - 9
+2024-04-09 19:35:47,260 [main] INFO ebanking - Assert Validation Started...
+2024-04-09 19:35:47,275 [main] INFO ebanking - Test Case 003 Passed
+2024-04-10 18:00:47,416 [main] INFO ebanking - Providing customer details...
+2024-04-10 18:00:47,475 [main] INFO ebanking - 1
+2024-04-10 18:00:47,517 [main] INFO ebanking - 2
+2024-04-10 18:00:47,629 [main] INFO ebanking - 3
+2024-04-10 18:00:50,714 [main] INFO ebanking - 4
+2024-04-10 18:00:50,766 [main] INFO ebanking - 5
+2024-04-10 18:00:50,815 [main] INFO ebanking - 6
+2024-04-10 18:00:50,867 [main] INFO ebanking - 7
+2024-04-10 18:00:50,918 [main] INFO ebanking - 8
+2024-04-10 18:00:50,975 [main] INFO ebanking - 9
+2024-04-10 18:00:54,441 [main] INFO ebanking - Assert Validation Started...
+2024-04-10 18:01:24,409 [main] INFO ebanking - Providing customer details...
+2024-04-10 18:01:24,468 [main] INFO ebanking - 1
+2024-04-10 18:01:24,518 [main] INFO ebanking - 2
+2024-04-10 18:01:24,630 [main] INFO ebanking - 3
+2024-04-10 18:01:27,699 [main] INFO ebanking - 4
+2024-04-10 18:01:27,751 [main] INFO ebanking - 5
+2024-04-10 18:01:27,800 [main] INFO ebanking - 6
+2024-04-10 18:01:27,850 [main] INFO ebanking - 7
+2024-04-10 18:01:27,902 [main] INFO ebanking - 8
+2024-04-10 18:01:27,958 [main] INFO ebanking - 9
+2024-04-10 18:01:32,174 [main] INFO ebanking - Assert Validation Started...
+2024-04-10 18:01:32,190 [main] INFO ebanking - Test Case 003 Passed
+2024-04-17 18:36:42,083 [main] INFO ebanking - Providing customer details...
+2024-04-17 18:36:42,142 [main] INFO ebanking - 1
+2024-04-17 18:36:42,363 [main] INFO ebanking - 2
+2024-04-17 18:36:42,395 [main] INFO ebanking - 3
+2024-04-17 18:36:45,451 [main] INFO ebanking - 4
+2024-04-17 18:36:45,521 [main] INFO ebanking - 5
+2024-04-17 18:36:45,537 [main] INFO ebanking - 6
+2024-04-17 18:36:45,553 [main] INFO ebanking - 7
+2024-04-17 18:36:45,574 [main] INFO ebanking - 8
+2024-04-17 18:36:45,597 [main] INFO ebanking - 9
+2024-04-17 18:36:48,719 [main] INFO ebanking - Assert Validation Started...
+2024-04-17 18:41:52,782 [main] INFO ebanking - Providing customer details...
+2024-04-17 18:41:52,847 [main] INFO ebanking - 1
+2024-04-17 18:41:52,898 [main] INFO ebanking - 2
+2024-04-17 18:41:53,009 [main] INFO ebanking - 3
+2024-04-17 18:41:56,068 [main] INFO ebanking - 4
+2024-04-17 18:41:56,124 [main] INFO ebanking - 5
+2024-04-17 18:41:56,175 [main] INFO ebanking - 6
+2024-04-17 18:41:56,225 [main] INFO ebanking - 7
+2024-04-17 18:41:56,283 [main] INFO ebanking - 8
+2024-04-17 18:41:56,340 [main] INFO ebanking - 9
+2024-04-17 18:42:00,225 [main] INFO ebanking - Assert Validation Started...
+2024-04-17 18:42:24,881 [main] INFO ebanking - Providing customer details...
+2024-04-17 18:42:24,942 [main] INFO ebanking - 1
+2024-04-17 18:42:24,990 [main] INFO ebanking - 2
+2024-04-17 18:42:25,103 [main] INFO ebanking - 3
+2024-04-17 18:42:28,178 [main] INFO ebanking - 4
+2024-04-17 18:42:28,231 [main] INFO ebanking - 5
+2024-04-17 18:42:28,282 [main] INFO ebanking - 6
+2024-04-17 18:42:28,331 [main] INFO ebanking - 7
+2024-04-17 18:42:28,384 [main] INFO ebanking - 8
+2024-04-17 18:42:28,451 [main] INFO ebanking - 9
+2024-04-17 18:42:33,186 [main] INFO ebanking - Assert Validation Started...
+2024-04-17 18:42:33,204 [main] INFO ebanking - Test Case 003 Passed
